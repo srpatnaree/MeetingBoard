@@ -1,0 +1,12 @@
+D:\PNR\MeetingBoard\MeetingBoard\bin\MeetingBoard.dll.config
+D:\PNR\MeetingBoard\MeetingBoard\bin\MeetingBoard.dll
+D:\PNR\MeetingBoard\MeetingBoard\bin\MeetingBoard.pdb
+D:\PNR\MeetingBoard\MeetingBoard\bin\MeetingBoard.xml
+D:\PNR\MeetingBoard\MeetingBoard\obj\Release\MeetingBoard.Resources.resources
+D:\PNR\MeetingBoard\MeetingBoard\obj\Release\MeetingBoard.vbproj.GenerateResource.Cache
+D:\PNR\MeetingBoard\MeetingBoard\obj\Release\MeetingBoard.dll
+D:\PNR\MeetingBoard\MeetingBoard\obj\Release\MeetingBoard.xml
+D:\PNR\MeetingBoard\MeetingBoard\obj\Release\MeetingBoard.pdb
+D:\PNR\MeetingBoard\MeetingBoard\bin\ConnectBookingRoomDB.dll
+D:\PNR\MeetingBoard\MeetingBoard\bin\ConnectBookingRoomDB.pdb
+D:\PNR\MeetingBoard\MeetingBoard\bin\ConnectBookingRoomDB.xml

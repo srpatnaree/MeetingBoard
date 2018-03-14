@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\inetpub\wwwroot\MeetingBoard</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/ConnectBookingRoomDB.dll">
+      <publishTime>05/05/2017 13:59:52</publishTime>
+    </File>
+    <File Include="bin/MeetingBoard.dll">
+      <publishTime>03/12/2018 16:16:33</publishTime>
+    </File>
+    <File Include="bin/MeetingBoard.xml">
+      <publishTime>03/12/2018 16:16:33</publishTime>
+    </File>
+    <File Include="css/blog-post.css">
+      <publishTime>03/05/2018 16:21:23</publishTime>
+    </File>
+    <File Include="Default.aspx">
+      <publishTime>03/12/2018 16:16:27</publishTime>
+    </File>
+    <File Include="img/bg.jpg">
+      <publishTime>03/05/2018 14:13:19</publishTime>
+    </File>
+    <File Include="img/Header.png">
+      <publishTime>03/05/2018 13:43:37</publishTime>
+    </File>
+    <File Include="img/phone-icon.png">
+      <publishTime>02/23/2018 10:47:14</publishTime>
+    </File>
+    <File Include="index.html">
+      <publishTime>02/21/2018 13:13:33</publishTime>
+    </File>
+    <File Include="vendor/bootstrap/css/bootstrap-grid.css">
+      <publishTime>03/02/2018 15:48:49</publishTime>
+    </File>
+    <File Include="vendor/bootstrap/css/bootstrap-grid.min.css">
+      <publishTime>02/21/2018 13:13:33</publishTime>
+    </File>
+    <File Include="vendor/bootstrap/css/bootstrap-reboot.css">
+      <publishTime>03/02/2018 15:50:06</publishTime>
+    </File>
+    <File Include="vendor/bootstrap/css/bootstrap-reboot.min.css">
+      <publishTime>02/21/2018 13:13:33</publishTime>
+    </File>
+    <File Include="vendor/bootstrap/css/bootstrap.css">
+      <publishTime>03/05/2018 11:03:54</publishTime>
+    </File>
+    <File Include="vendor/bootstrap/css/bootstrap.css.map">
+      <publishTime>02/21/2018 13:13:33</publishTime>
+    </File>
+    <File Include="vendor/bootstrap/css/bootstrap.min.css">
+      <publishTime>02/21/2018 13:13:33</publishTime>
+    </File>
+    <File Include="vendor/bootstrap/css/bootstrap.min.css.map">
+      <publishTime>02/21/2018 13:13:34</publishTime>
+    </File>
+    <File Include="vendor/bootstrap/js/bootstrap.bundle.js">
+      <publishTime>02/21/2018 13:13:34</publishTime>
+    </File>
+    <File Include="vendor/bootstrap/js/bootstrap.bundle.js.map">
+      <publishTime>02/21/2018 13:13:34</publishTime>
+    </File>
+    <File Include="vendor/bootstrap/js/bootstrap.bundle.min.js">
+      <publishTime>02/21/2018 13:13:34</publishTime>
+    </File>
+    <File Include="vendor/bootstrap/js/bootstrap.bundle.min.js.map">
+      <publishTime>02/21/2018 13:13:34</publishTime>
+    </File>
+    <File Include="vendor/bootstrap/js/bootstrap.js">
+      <publishTime>02/21/2018 13:13:34</publishTime>
+    </File>
+    <File Include="vendor/bootstrap/js/bootstrap.js.map">
+      <publishTime>02/21/2018 13:13:34</publishTime>
+    </File>
+    <File Include="vendor/bootstrap/js/bootstrap.min.js">
+      <publishTime>02/21/2018 13:13:34</publishTime>
+    </File>
+    <File Include="vendor/bootstrap/js/bootstrap.min.js.map">
+      <publishTime>02/21/2018 13:13:34</publishTime>
+    </File>
+    <File Include="vendor/jquery/jquery.js">
+      <publishTime>02/21/2018 13:13:34</publishTime>
+    </File>
+    <File Include="vendor/jquery/jquery.min.js">
+      <publishTime>02/21/2018 13:13:34</publishTime>
+    </File>
+    <File Include="vendor/jquery/jquery.min.map">
+      <publishTime>02/21/2018 13:13:34</publishTime>
+    </File>
+    <File Include="vendor/jquery/jquery.slim.js">
+      <publishTime>02/21/2018 13:13:34</publishTime>
+    </File>
+    <File Include="vendor/jquery/jquery.slim.min.js">
+      <publishTime>02/21/2018 13:13:34</publishTime>
+    </File>
+    <File Include="vendor/jquery/jquery.slim.min.map">
+      <publishTime>02/21/2018 13:13:34</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>03/02/2018 11:44:26</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

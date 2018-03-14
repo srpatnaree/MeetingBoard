@@ -1,0 +1,28 @@
+
+body {
+  padding-top: 15px;
+}
+
+@media (min-width: 992px) {
+  body {
+    padding-top: 15px;
+  }
+}
+  .header-shadow{
+    background-image: url('../img/Header.png');
+    height: 100px;
+    width: auto;
+    background-size:contain;
+    background-repeat: no-repeat;
+
+}
+
+  .bg{
+    background-image: url('../img/bg.jpg');
+   
+    width: auto;
+    background-size:cover;
+    background-repeat: no-repeat;
+
+}
+
